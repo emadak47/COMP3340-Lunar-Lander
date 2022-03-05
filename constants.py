@@ -1,5 +1,7 @@
 # DQN hyper-parameters 
 
+__NUM_EPISODES__ = 10
+
 __DQN_CONST__ = {
     "LR": 0.001,
     "EPSILON": 1.0,
