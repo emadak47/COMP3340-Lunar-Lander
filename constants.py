@@ -1,6 +1,6 @@
 # DQN hyper-parameters 
 
-__NUM_EPISODES__ = 10
+__NUM_EPISODES__ = 400
 
 __DQN_CONST__ = {
     "LR": 0.001,
