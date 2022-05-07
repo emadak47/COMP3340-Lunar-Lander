@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[4]:
 
 
 import gym
@@ -14,7 +14,7 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.losses import mean_squared_error
 
 
-# In[2]:
+# In[5]:
 
 
 from collections import deque
@@ -22,7 +22,7 @@ from constants import __DQN_CONST__
 from constants import __NUM_EPISODES__
 
 
-# In[3]:
+# In[6]:
 
 
 class DQN:
